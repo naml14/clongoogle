@@ -1,2 +1,2 @@
 # clongoogle
-# Con de la página de búsqueda de Google hecho por Nelson Andrés Mora López
+# Clon de la página de búsqueda de Google hecho por Nelson Andrés Mora López
